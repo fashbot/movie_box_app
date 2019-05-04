@@ -16,7 +16,7 @@ Device - Android 7 >
 - A User can search the database with a movie of their choice
 ```
 
-<center><img src="https://github.com/fashbot/movie_box_app/blob/master/GIf0.gif" width="300" height="600" /></center>
+<p align="center"><img src="https://github.com/fashbot/movie_box_app/blob/master/GIf0.gif" width="250" height="500" /></p>
 
 ```
 - A User can click on an item to find more information on a movie
@@ -24,12 +24,12 @@ Device - Android 7 >
 - A User sees a smooth transition between activities
 ```
 
-<center><img src="https://github.com/fashbot/movie_box_app/blob/master/gif02.gif" width="300" height="600" /></center>
+<p align="center"> <img src="https://github.com/fashbot/movie_box_app/blob/master/gif02.gif" width="250" height="500" /></p>
 
 
 ```
 - A User is faced with a "no results" message if no matching items are found
 ```
 
-<center><img src="https://github.com/fashbot/movie_box_app/blob/master/gif01.gif" width="300" height="600" /></center>
+<p align="center"> <img src="https://github.com/fashbot/movie_box_app/blob/master/gif01.gif" width="250" height="500" /></p>
 
