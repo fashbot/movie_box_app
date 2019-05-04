@@ -11,15 +11,12 @@ Android Studio 3.2
 Device - Android 7 > 
 ```
 ### User Stories
-<img src="https://github.com/fashbot/movie_box_app/blob/master/GIf0.gif" width="300" height="600" />
-
 
 ```
 - A User can search the database with a movie of their choice
 ```
 
-<img src="https://github.com/fashbot/movie_box_app/blob/master/gif01.gif" width="300" height="600" />
-
+<img src="https://github.com/fashbot/movie_box_app/blob/master/GIf0.gif" width="300" height="600" />
 
 ```
 - A User can click on an item to find more information on a movie
@@ -33,3 +30,6 @@ Device - Android 7 >
 ```
 - A User is faced with a "no results" message if no matching items are found
 ```
+
+<img src="https://github.com/fashbot/movie_box_app/blob/master/gif01.gif" width="300" height="600" />
+
