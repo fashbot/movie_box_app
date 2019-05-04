@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">musicBox</string>
+    <string name="app_name">movieBox</string>
     <string name="no_movies_message">No movies here, buddy</string>
     <string name="search_message">Search for a movie</string>
 </resources>
