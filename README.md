@@ -13,6 +13,7 @@ Device - Android 7 >
 ### User Stories
 
 ![Screenshot](./Gif0.gif)
+<img src="./Gif0.gif" width="40" height="40" />
 ```
 - A User can search the database with a movie of their choice
 ```
