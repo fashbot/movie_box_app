@@ -11,9 +11,7 @@ Android Studio 3.2
 Device - Android 7 > 
 ```
 ### User Stories
-
-![Screenshot](./Gif0.gif)
-
+<img src="https://github.com/fashbot/movie_box_app/blob/master/GIf0.gif" width="40" height="40" />
 ```
 - A User can search the database with a movie of their choice
 ```
