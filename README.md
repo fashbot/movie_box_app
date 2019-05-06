@@ -13,7 +13,7 @@ Device - Android 7 >
 ### User Stories
 
 ```
-- A User can search the database with a movie of their choice
+- A User can search the database for a movie of their choice
 ```
 
 <p align="center"><img src="https://github.com/fashbot/movie_box_app/blob/master/GIf0.gif" width="250" height="500" /></p>
